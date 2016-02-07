@@ -11,6 +11,11 @@ published: false
 - [You don't know js](https://github.com/getify/You-Dont-Know-JS) - author in details describes javascript
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
+###Sites
+- [learn.javascript.ru](http://learn.javascript.ru/) - my favorite site about js
+- [jstips](http://www.jstips.co/) - js tip for every day
+- [devdocs](http://devdocs.io/) - documentation for different languages, frameworks and libraries in one place
+
 ###Youtube
 - [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - short videos about js, released every Monday
 
