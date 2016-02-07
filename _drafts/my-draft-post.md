@@ -8,5 +8,5 @@ published: true
 
 
 ###Blog Ideas
-- Difference between underscore.js, lodash.js, Lazy.js
+- Difference between [underscore](http://underscorejs.org/), [lodash](https://lodash.com/docs), [Lazy](http://danieltao.com/lazy.js/docs/)
 - 
