@@ -4,6 +4,7 @@ published: false
 
 
 
+
 ###Javascript Books
 - [Mostly Adequate Guide](https://drboolean.gitbooks.io/mostly-adequate-guide/) - a book about FP in general, but examples written in javascript
 - [You don't know js](https://github.com/getify/You-Dont-Know-JS) - author in details describes javascript
@@ -14,3 +15,5 @@ published: false
 ###Email Subscription
 - [fivejs](https://fivejs.codeschool.com/)
 
+###Screen Cast
+- [Gulp](https://www.youtube.com/playlist?list=PLDyvV36pndZFLTE13V4qNWTZbeipNhCgQ)
