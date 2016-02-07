@@ -5,7 +5,7 @@ description: > #
   Here should be some words how cool this site is:)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vasergen.github.io/" # the base hostname & protocol for your site
-twitter_username:
+twitter_username: vasergen
 github_username:  vasergen
 
 # Build settings
