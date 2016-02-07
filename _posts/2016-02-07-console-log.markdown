@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "Console Log"
 date:   2016-02-07 12:40:22 +0100
 categories: jekyll update
 ---
