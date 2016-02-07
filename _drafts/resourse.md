@@ -10,7 +10,7 @@ published: false
 - [You don't know js](https://github.com/getify/You-Dont-Know-JS) - author in details describes javascript
 
 ###Youtube
-- [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - short videos about js, released every Monday
+- [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - short videos about js, released every Monday 
 
 
 
