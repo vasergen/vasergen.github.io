@@ -2,6 +2,10 @@
 published: false
 ---
 
-## A New Post
-Mostly Adequate Guide - a book about FP in general
-https://drboolean.gitbooks.io/mostly-adequate-guide/
+
+##Books
+
+###Javascript
+
+
+- [Mostly Adequate Guide](https://drboolean.gitbooks.io/mostly-adequate-guide/) - a book about FP in general, but examples written in javascript
