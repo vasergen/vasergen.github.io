@@ -9,4 +9,5 @@ published: true
 
 ###Blog Ideas
 - Difference between [underscore](http://underscorejs.org/), [lodash](https://lodash.com/docs), [Lazy](http://danieltao.com/lazy.js/docs/)
+- Functional programming in JS
 - 
