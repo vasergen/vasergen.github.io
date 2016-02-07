@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2016-02-07 12:40:22 +0100
+categories: jekyll update
+---
+
+Let's do some code
+
+{% highlight javascript %}
+console.log('Hi there')
+//prints 'Hi there' to STDOUT.
+{% endhighlight %}

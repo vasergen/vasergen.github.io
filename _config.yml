@@ -1,0 +1,12 @@
+# Site settings
+title: Hi there:)
+email: vasergen@gmailcom
+description: > #
+  Here should be some words how cool this site is:)
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://vasergen.github.io/" # the base hostname & protocol for your site
+twitter_username:
+github_username:  vasergen
+
+# Build settings
+markdown: kramdown
