@@ -21,6 +21,7 @@ published: false
 
 ###Email Subscription
 - [fivejs](https://fivejs.codeschool.com/)
+- [nodeweekly](http://nodeweekly.com/)
 
 ###Screen Cast
 - [Gulp](https://www.youtube.com/playlist?list=PLDyvV36pndZFLTE13V4qNWTZbeipNhCgQ)
