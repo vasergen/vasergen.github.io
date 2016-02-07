@@ -3,14 +3,14 @@ published: false
 ---
 
 
-##Books
 
-###Javascript
+###Javascript Books
 - [Mostly Adequate Guide](https://drboolean.gitbooks.io/mostly-adequate-guide/) - a book about FP in general, but examples written in javascript
 - [You don't know js](https://github.com/getify/You-Dont-Know-JS) - author in details describes javascript
 
 ###Youtube
-- [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - short videos about js, released every Monday 
+- [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - short videos about js, released every Monday
 
-
+###Email Subscription
+- [fivejs](https://fivejs.codeschool.com/)
 
