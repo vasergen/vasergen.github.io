@@ -2,6 +2,7 @@
 layout: post
 title:  "Console Log"
 date:   2016-02-07 12:40:22 +0100
+comments: true
 categories: js
 ---
 
