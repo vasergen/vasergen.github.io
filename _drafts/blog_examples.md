@@ -2,6 +2,6 @@
 published: false
 ---
 
-## A New Post
+###Blog Examples
 
-http://thomaspark.co/
+- http://thomaspark.co/
