@@ -3,4 +3,5 @@ published: false
 ---
 
 ###Blog Examples
-- http://thomaspark.co/
+- [thomaspark](http://thomaspark.co/)
+- 
